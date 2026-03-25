@@ -83,6 +83,7 @@ potsdam_hospital_pathfinding/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
 Notes
 
-This project uses real world data from O penStreetMap and demonstrates how pathfinding algorithms can be applied to emergency routing problems.
+This project uses real world data from OpenStreetMap and demonstrates how pathfinding algorithms can be applied to emergency routing problems.
